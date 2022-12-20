@@ -1,4 +1,4 @@
-# JavaScript Moderno Guía Definitiva Construye +20 Proyectos
+# JavaScript Moderno Guía Definitiva Construye +19 Proyectos
 
 ## Notas del Curso.
 
