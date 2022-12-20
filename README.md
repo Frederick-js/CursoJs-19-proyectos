@@ -2,7 +2,7 @@
 
 ## Notas del Curso.
 
-Este repositorio contiene todos proyectos del curso: JavaScript Moderno Guía Definitiva Construye +20 Proyectos de Juan Pablo de la Torre
+Este repositorio contiene todos proyectos del curso: JavaScript Moderno Guía Definitiva Construye +10 Proyectos de Juan Pablo de la Torre
 
 [Link del Curso](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
 
